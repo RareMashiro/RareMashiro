@@ -20,6 +20,12 @@
 <h2 align="left">Статистика по решению задач на LeetCode:</h2>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RareMashiro&theme=dark)](https://github.com/RareMashiro/leetcode-stats)
+
+<h2 align="left">Рабочие материалы:</h2>
+<p><a href="https://github.com/RareMashiro/Frontend" target="_blank">Ссылка на репозиторий по фронтенду</a></p>
+<p><a href="https://github.com/RareMashiro/MLM" target="_blank">Ссылка на репозиторий по машинному обучению</a> (учебный)</p>
+<p><a href="https://github.com/RareMashiro/SDT" target="_blank">Ссылка на репозиторий по технологиям разработки ПО</a> (учебный)</p>
+<p><a href="https://github.com/RareMashiro/NNSD" target="_blank">Ссылка на репозиторий по разработке нейросетевых систем (учебный)</a></p>
 <!--
 **RareMashiro/RareMashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
