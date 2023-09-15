@@ -1,3 +1,9 @@
+<style>
+  h1 {
+    padding: 30px;
+    background-color: #fc9a4e;
+  }
+</style>
 <h1 align="center"><a href="https://github.com/RareMashiro" target="_blank">Пименов Георгий Юрьевич</a></h1>
 
 <!--
