@@ -2,6 +2,8 @@
 <h2 align="left">О себе:</h2>
 <p>
   Just like to study frontend technologies
+</p>
+<p>
   Og læra Íslenska tungamál
 </p>
 <h2 align="left">Стек технологий:</h2>
