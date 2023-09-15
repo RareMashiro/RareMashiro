@@ -10,7 +10,7 @@
   <img src="https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"/>
 </div>
 
-<h3 align="left">Статистика по решению задач на LeetCode:</h3>
+<h2 align="left">Статистика по решению задач на LeetCode:</h2>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RareMashiro&theme=dark)](https://github.com/RareMashiro/leetcode-stats)
 <!--
