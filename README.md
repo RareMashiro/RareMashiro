@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"><a href="https://github.com/RareMashiro" target="_blank">Пименов Георгий Юрьевич</a></h1>
 
 <!--
 **RareMashiro/RareMashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
