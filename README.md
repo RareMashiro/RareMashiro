@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/RareMashiro" target="_blank">Пименов Георгий Юрьевич</a></h1>
+<h1 align="center">Пименов Георгий Юрьевич aka<a href="https://github.com/RareMashiro" target="_blank">RareMashiro</a></h1>
 <h2 align="left">О себе:</h2>
 <p>
   Just like to study frontend technologies
