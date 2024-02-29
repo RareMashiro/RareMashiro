@@ -23,7 +23,7 @@
 
 <h2 align="left">Рабочие материалы:</h2>
 <p><a href="https://github.com/RareMashiro/Frontend" target="_blank">Ссылка на репозиторий по фронтенду</a></p>
-<p><a href="[https://github.com/RareMashiro/Frontend](https://github.com/RareMashiro/ReactCourse/tree/main-hw)" target="_blank">Ссылка на репозиторий проекта на React.js</a></p>
+<p><a href="https://github.com/RareMashiro/ReactCourse/tree/main-hw" target="_blank">Ссылка на репозиторий проекта на React.js</a></p>
 <p><a href="https://github.com/RareMashiro/MLM" target="_blank">Ссылка на репозиторий по машинному обучению</a> (учебный)</p>
 <p><a href="https://github.com/RareMashiro/SDT" target="_blank">Ссылка на репозиторий по технологиям разработки ПО</a> (учебный)</p>
 <p><a href="https://github.com/RareMashiro/NNSD" target="_blank">Ссылка на репозиторий по разработке нейросетевых систем</a> (учебный)</p>
