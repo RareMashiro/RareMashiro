@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://github.com/RareMashiro" target="_blank">RareMashiro</a></h1>
 <h2 align="left">About me:</h2>
 <p>
-  Hello!, my name is George. I'm a big fan of studying frontend technologies, and I would like to test my skills in prod dev!
+  Hello!, my name is <b>George</b>. I'm a big fan of studying frontend technologies, and I would like to test my skills in prod dev!
 </p>
 <p>
   I'm currently working on my graduation project (the link will be here soon...)
@@ -23,6 +23,7 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RareMashiro&theme=dark)](https://github.com/RareMashiro/leetcode-stats)
 
 <h2 align="left">Work materials:</h2>
+<p><a href="https://github.com/RareMashiro/internVK" target="_blank">My Intern VK cases repo</a></p>
 <p><a href="https://github.com/RareMashiro/Frontend" target="_blank">My frontend repo</a></p>
 <p><a href="https://github.com/RareMashiro/ReactCourse/tree/main-hw" target="_blank">My current project on React.js</a></p>
 <p><a href="https://github.com/RareMashiro/MLM" target="_blank">My ML repo</a> (training)</p>
