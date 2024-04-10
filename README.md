@@ -23,7 +23,7 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RareMashiro&theme=dark)](https://github.com/RareMashiro/leetcode-stats)
 
 <h2 align="left">Work materials:</h2>
-<p><a href="https://github.com/RareMashiro/internVK" target="_blank">My Intern VK cases repo</a></p>
+<p><a href="https://github.com/RareMashiro/internVK/tree/project-progress" target="_blank">My Intern VK cases repo</a></p>
 <p><a href="https://github.com/RareMashiro/Frontend" target="_blank">My frontend repo</a></p>
 <p><a href="https://github.com/RareMashiro/ReactCourse/tree/main-hw" target="_blank">My current project on React.js</a></p>
 <p><a href="https://github.com/RareMashiro/MLM" target="_blank">My ML repo</a> (training)</p>
