@@ -1,12 +1,9 @@
 <h1 align="center"><a href="https://github.com/RareMashiro" target="_blank">RareMashiro</a></h1>
-<h2 align="left">About me:</h2>
+<h2 align="left">Обо мне:</h2>
 <p>
-  Hello!, my name is <b>George</b>. I'm a big fan of studying frontend technologies, and I would like to test my skills in prod dev!
+  Привет!, меня зовут <b>Гоша</b>. Я Frontend Developer. Испытываю страсть к фронтенд-технологиям и немного интересуюсь бэкендом
 </p>
-<p>
-  I'm currently working on my graduation project (the link will be here soon...)
-</p>
-<h2 align="left">Stack:</h2>
+<h2 align="left">Мой стэк:</h2>
 <div style="display: inline-block">
   <img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/>
@@ -22,13 +19,13 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RareMashiro&theme=dark)](https://github.com/RareMashiro/leetcode-stats)
 
-<h2 align="left">Work materials:</h2>
-<p><a href="https://github.com/RareMashiro/internVK/tree/project-progress" target="_blank">My Intern VK cases repo</a></p>
-<p><a href="https://github.com/RareMashiro/Frontend" target="_blank">My frontend repo</a></p>
-<p><a href="https://github.com/RareMashiro/ReactCourse/tree/main-hw" target="_blank">My current project on React.js</a></p>
-<p><a href="https://github.com/RareMashiro/MLM" target="_blank">My ML repo</a> (training)</p>
-<p><a href="https://github.com/RareMashiro/SDT" target="_blank">My dev repo</a> (training)</p>
-<p><a href="https://github.com/RareMashiro/NNSD" target="_blank">My NND repo</a> (training)</p>
+<h2 align="left">Мои проекты и рабочие материалы:</h2>
+<p><a href="https://github.com/RareMashiro/internVK/tree/project-progress" target="_blank">Макет корзины онлайн магазина</a></p>
+<p><a href="https://github.com/RareMashiro/Frontend" target="_blank">Тренировочный репозиторий с задачами</a></p>
+<p><a href="https://github.com/RareMashiro/ReactCourse/tree/main-hw" target="_blank">Сайт по заказу еды из ресторанов</a></p>
+<p><a href="https://github.com/RareMashiro/MLM" target="_blank">Проект и рабочие материалы по машинному обучению</a> (учебный)</p>
+<p><a href="https://github.com/RareMashiro/SDT" target="_blank">Проект и рабочие материалы по технологиям разработки ПО</a> (учебный)</p>
+<p><a href="https://github.com/RareMashiro/NNSD" target="_blank">Проект и рабочие материалы по разработке нейросетевых систем</a> (учебный)</p>
 <!--
 **RareMashiro/RareMashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
