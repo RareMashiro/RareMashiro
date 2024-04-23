@@ -19,8 +19,9 @@
 
 <h2 align="left">Мои проекты и рабочие материалы:</h2>
 <p><a href="https://github.com/RareMashiro/internVK/tree/project-progress" target="_blank">Макет корзины онлайн магазина</a></p>
-<p><a href="https://github.com/RareMashiro/Frontend" target="_blank">Тренировочный репозиторий с задачами</a></p>
+<p><a href="https://github.com/RareMashiro/graduateProject" target="_blank">Веб-приложение для морфологического разбора предложения на русском языке</a></p>
 <p><a href="https://github.com/RareMashiro/ReactCourse/tree/main-hw" target="_blank">Сайт по заказу еды из ресторанов</a></p>
+<p><a href="https://github.com/RareMashiro/Frontend" target="_blank">Тренировочный репозиторий с задачами</a></p>
 <p><a href="https://github.com/RareMashiro/MLM" target="_blank">Проект и рабочие материалы по машинному обучению</a> (учебный)</p>
 <p><a href="https://github.com/RareMashiro/SDT" target="_blank">Проект и рабочие материалы по технологиям разработки ПО</a> (учебный)</p>
 <p><a href="https://github.com/RareMashiro/NNSD" target="_blank">Проект и рабочие материалы по разработке нейросетевых систем</a> (учебный)</p>
