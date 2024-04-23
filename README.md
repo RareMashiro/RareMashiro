@@ -18,13 +18,13 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RareMashiro&theme=dark)](https://github.com/RareMashiro/leetcode-stats)
 
 <h2 align="left">Мои проекты и рабочие материалы:</h2>
-Проект: <p><a href="https://github.com/RareMashiro/internVK/tree/project-progress" target="_blank">Макет корзины онлайн магазина</a></p>
+<p>Проект: <a href="https://github.com/RareMashiro/internVK/tree/project-progress" target="_blank">Макет корзины онлайн магазина</a></p>
 Представляет из себя макет корзины с небольшим сервером и набором нормализованных данных
 
-Проект: <p><a href="https://github.com/RareMashiro/graduateProject" target="_blank">Веб-приложение для морфологического разбора предложения на русском языке</a></p>
+<p>Проект: <a href="https://github.com/RareMashiro/graduateProject" target="_blank">Веб-приложение для морфологического разбора предложения на русском языке</a></p>
 Представляет из себя веб-приложение с небольшим сервером и базой данных
 
-Проект: <p><a href="https://github.com/RareMashiro/ReactCourse/tree/main-hw" target="_blank">Сайт по заказу еды из ресторанов</a></p>
+<p>Проект: <a href="https://github.com/RareMashiro/ReactCourse/tree/main-hw" target="_blank">Сайт по заказу еды из ресторанов</a></p>
 Представляет из себя веб-сайт с небольшим сервером и набором нормализованных данных
 
 <p><a href="https://github.com/RareMashiro/Frontend" target="_blank">Тренировочный репозиторий с задачами</a></p>
