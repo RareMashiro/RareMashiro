@@ -17,17 +17,23 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RareMashiro&theme=dark)](https://github.com/RareMashiro/leetcode-stats)
 
-<h2 align="left">Мои проекты и рабочие материалы:</h2>
-<p>Проект: <a href="https://github.com/RareMashiro/internVK/tree/project-progress" target="_blank">Макет корзины онлайн магазина</a></p>
+<h2 align="left">Проекты и рабочие материалы:</h2>
+<p><a href="https://github.com/RareMashiro/internVK/tree/project-progress" target="_blank">Макет корзины онлайн магазина</a></p>
 <p>Представляет из себя макет корзины с небольшим сервером и набором нормализованных данных</p>
-<p>Проект: <a href="https://github.com/RareMashiro/graduateProject" target="_blank">Веб-приложение для морфологического разбора предложения на русском языке</a></p>
+<p><a href="https://github.com/RareMashiro/graduateProject" target="_blank">Веб-приложение для морфологического разбора предложения на русском языке</a></p>
 <p>Представляет из себя веб-приложение с небольшим сервером и базой данных</p>
-<p>Проект: <a href="https://github.com/RareMashiro/ReactCourse/tree/main-hw" target="_blank">Сайт по заказу еды из ресторанов</a></p>
+<p><a href="https://github.com/RareMashiro/ReactCourse/tree/main-hw" target="_blank">Сайт по заказу еды из ресторанов</a></p>
 <p>Представляет из себя веб-сайт с небольшим сервером и набором нормализованных данных</p>
+<p><a href="https://github.com/RareMashiro/HackerNews" target="_blank">Топ свежих новостей с Hacker-News</a></p>
+<p>Представляет из себя spa приложение из 2 вкладок - вкладка с новостями и вкладка с описанием и комментариями</p>
 <p><a href="https://github.com/RareMashiro/Frontend" target="_blank">Тренировочный репозиторий с задачами</a></p>
-<p><a href="https://github.com/RareMashiro/MLM" target="_blank">Проект и рабочие материалы по машинному обучению</a> (учебный)</p>
-<p><a href="https://github.com/RareMashiro/SDT" target="_blank">Проект и рабочие материалы по технологиям разработки ПО</a> (учебный)</p>
-<p><a href="https://github.com/RareMashiro/NNSD" target="_blank">Проект и рабочие материалы по разработке нейросетевых систем</a> (учебный)</p>
+<p><a href="https://github.com/RareMashiro/MLM" target="_blank">Курс по машинному обучению</a> (учебный)</p>
+<p><a href="https://github.com/RareMashiro/SDT" target="_blank">Курс по технологиям разработки ПО</a> (учебный)</p>
+<p><a href="https://github.com/RareMashiro/NNSD" target="_blank">Курс по разработке нейросетевых систем</a> (учебный)</p>
+
+<h2 align="left">Прочие достижения</h2>
+<p><a href="https://github.com/RareMashiro/RareMashiro/blob/main/images/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5%20%D0%B2%20%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%D1%85%205.0.pdf" target="_blank">Участие в тренировках по алгоритмам 5.0</a></p>
+<p><a href="https://github.com/RareMashiro/RareMashiro/blob/main/images/%D0%9A%D1%83%D1%80%D1%81%20%D0%BF%D0%BE%20React.jpg" target="_blank">Курс по React</a></p>
 <!--
 **RareMashiro/RareMashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
