@@ -15,7 +15,7 @@
 
 <h2 align="left">LeetCode:</h2>
 
-[![RareMashiro's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=RareMashiro&theme=dark)](https://github.com/RareMashiro/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/RareMashiro?theme=dark&font=BenchNine)
 
 <h2 align="left">Проекты и рабочие материалы:</h2>
 <p><a href="https://github.com/RareMashiro/internVK/tree/project-progress" target="_blank">Макет корзины онлайн магазина</a></p>
