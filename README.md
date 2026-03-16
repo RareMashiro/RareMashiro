@@ -1,7 +1,6 @@
 <h1 align="center"><a href="https://github.com/RareMashiro" target="_blank">RareMashiro</a></h1>
-<h2 align="left">Обо мне:</h2>
-Привет!, меня зовут <b>Гоша</b>. В настоящее время я работаю фронтенд разработчиком в Ozon Fintech. Здесь хранятся мои учебные материалы
-<h2 align="left">Мой стэк:</h2>
+<h2 align="left">Suspension for children</h2>
+<h2 align="left">Stack:</h2>
 <div style="display: inline-block">
   <img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/>
@@ -17,7 +16,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RareMashiro?theme=nord&font=BenchNine)
 
-<h2 align="left">Проекты и рабочие материалы:</h2>
+<h2 align="left">Workfiles:</h2>
 <p><a href="https://github.com/RareMashiro/internVK/tree/project-progress" target="_blank">Макет корзины онлайн магазина</a></p>
 <p>Представляет из себя макет корзины с небольшим сервером и набором нормализованных данных</p>
 <p><a href="https://github.com/RareMashiro/graduateProject" target="_blank">Веб-приложение для морфологического разбора предложения на русском языке</a></p>
